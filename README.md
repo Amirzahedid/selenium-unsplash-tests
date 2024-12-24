@@ -30,7 +30,7 @@ Das Projekt umfasst folgende Testfälle:
 
 1. Repository klonen:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Amirzahedid/selenium-unsplash-tests.git
    ```
 2. Benötigte Abhängigkeiten installieren:
    ```bash
